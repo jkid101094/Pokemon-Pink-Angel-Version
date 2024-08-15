@@ -84,6 +84,8 @@
 #define MAP_SHINGO_CITY_NOTH         (75 | (0 << 8))
 #define MAP_ROUTE3                   (76 | (0 << 8))
 #define MAP_TOMOE_DESERT             (77 | (0 << 8))
+#define MAP_TOMOE_DESERT2            (78 | (0 << 8))
+#define MAP_TOMOE_OASIS              (79 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

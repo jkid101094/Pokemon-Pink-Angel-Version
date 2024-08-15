@@ -1126,3 +1126,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/TerraDen1/scripts.inc"
 
 	.include "data/maps/TomoeDesert/scripts.inc"
+
+	.include "data/maps/TomoeDesert2/scripts.inc"
+
+	.include "data/maps/TomoeOasis/scripts.inc"
