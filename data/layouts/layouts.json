@@ -4674,7 +4674,7 @@
     {
       "id": "LAYOUT_TOMOE_DESERT2",
       "name": "TomoeDesert2_Layout",
-      "width": 80,
+      "width": 85,
       "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Mauville",
